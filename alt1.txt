@@ -1,0 +1,9 @@
+git clone ----to pull the code from github or git repository or bit bucket 
+
+HTTPS ---authenticate using password 
+
+Ssh----authenticate using public key 
+
+ 
+
+

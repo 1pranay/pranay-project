@@ -1,4 +1,4 @@
-Virtualization as a Solution:
+Changed Virtualization as a Solution:
 Resource Utilization Issue:
 
 Traditional server configurations often led to resource wastage.
